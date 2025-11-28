@@ -24,3 +24,11 @@ You can find a sample of the dataset in the dataset/ directory, and the complete
 [HuggingFace Dataset Link](https://huggingface.co/datasets/m-abbasi-m/Car-Gear-Surface-Defect-Detection).
 
 This was my first experience using deep learning for a real-world problem, and also my first project uploaded to GitHub.
+
+## Results
+
+The model performed very well, achieving 100% accuracy on both the training and test datasets.
+It also generalized successfully to unseen gear samples, correctly identifying defects on new parts.
+
+<img src="https://github.com/MohammadAbbasiM/GearDefDet/blob/main/img/Picture2.png" width = 55% height = 55% div align=left />
+<img src="https://github.com/MohammadAbbasiM/GearDefDet/blob/main/img/Picture1.png" width = 34% height = 34% div align=center />
