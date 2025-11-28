@@ -15,8 +15,8 @@ Pytorch.ipynb
 ## Dataset
 
 The dataset contains images of gear surfaces and it's cillectet by myself using mobile phone and laptop.
-it's including:
-**Features:**
+
+**including:**
 - Normal gears
 - Defective gears (scratches, wear, etc.)
 
