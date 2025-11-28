@@ -4,7 +4,7 @@ This work was part of my bachelor's project.
 
 ## Overview
 
-This project uses a convolutional neural network (Transfer Learning on ResNet50) and implemented in Python and PyTorch to classify gear surface images into normal and defective categories.
+This project uses a convolutional neural network (transfer learning on ResNet50), implemented in Python and PyTorch, to classify gear surface images into normal and defective categories.
 
 The main code is provided in the Jupyter notebook:
 
