@@ -1,6 +1,6 @@
 # GearDefDet
 A simple PyTorch-based project for detecting surface defects on industrial gears.
-This work was part of my bachelor's project.
+This work was part of my bachelor's project and was one of my first deep learning projects.
 
 ## Overview
 
